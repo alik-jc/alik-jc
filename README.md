@@ -18,4 +18,4 @@
 - Arquitectura backend escalable
 
 **Buscando oportunidades** en backend/data engineering  
-📧 alik@jc.qsag.cloud · [LinkedIn](https://linkedin.com/in/tu-perfil)
+📧 alik@jc.qsag.cloud · [LinkedIn](https://linkedin.com/in/jesus-cuentas)
