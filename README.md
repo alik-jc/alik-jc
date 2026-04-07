@@ -1,4 +1,4 @@
-# 🟢 alik-jc
+# ☆ alik-jc
 
 > Backend · APIs · Web scraping ·
 
