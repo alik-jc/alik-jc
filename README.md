@@ -1,9 +1,9 @@
 # 🟢 alik-jc
 
-> Backend · APIs · Web scraping · Data pipelines
+> Backend · APIs · Web scraping ·
 
-[![status](https://img.shields.io/badge/status-active-00b894?style=flat)]()
-[![tech](https://img.shields.io/badge/stack-TS%20·%20PHP%20·%20Node-2ecc71?style=flat)]()
+[![status](https://img.shields.io/badge/status-active-6000fa?style=flat)]()
+[![tech](https://img.shields.io/badge/stack-TS%20·%20JS%20·%20CSS%20·%20Bun.js%20·%20Node-6000fa?style=flat)]()
 
 ---
 
