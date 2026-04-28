@@ -7,15 +7,7 @@
 
 ---
 
-**Proyectos Publicos**
-- [raiden-data-view](https://github.com/alik-jc/raiden-data-view) — Visualización de datos en TS
-- [raiden-embedview](https://github.com/alik-jc/raiden-embedview) — Gestión de opciones de player
-- [R_Star-Front](https://github.com/alik-jc/R_Star-Front) — En desarrollo
-
 **Experiencia**
 - APIs REST de alto tráfico
 - Web scraping resiliente
 - Arquitectura backend escalable
-
-**Buscando oportunidades** en backend / data engineering  
-📧 [alik@jc.qsag.cloud](mailto:alik@jc.qsag.cloud)
